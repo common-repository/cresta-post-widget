@@ -1,0 +1,18 @@
+.crestaPostWidgetLogo {
+	height: auto;
+	max-width: 100%;
+}
+.crestaProject-post-widget {
+	margin: 10px 0;
+	background: #cbcbcb;
+	padding: 10px;
+	border-radius: 10px;
+}
+.crestaBox {
+	background: rgba(0,0,0,.05);
+	padding: 1px 10px;
+	margin-bottom: 10px;
+}
+.crestaBox p {
+	font-size: 85%;
+}
